@@ -1,0 +1,5 @@
+modId="disablef3f4"
+version="1.0"
+displayName="禁用F3+F4"
+description="禁用F3+F4快捷键"
+authors="你的名字"
